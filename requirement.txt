@@ -1,3 +1,5 @@
+# 核心环境信息
+# Python Version: 3.10.19
 
 # PyTorch Nightly & CUDA 12.8
 
